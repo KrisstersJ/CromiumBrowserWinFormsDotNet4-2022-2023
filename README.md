@@ -2,10 +2,10 @@
 
 My first time forking a project
 
-# What i learned
+## What i learned
 
 - Forking a project
 
-# What i used
+## What i used
 
 - Github
